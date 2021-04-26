@@ -1,0 +1,86 @@
+@charset "utf-8";
+/* CSS Document */
+
+body h1 {
+    color: #9F0004;
+    font-size: xx-large;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+body p {
+    color: #000000;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-size: medium;
+}
+body h2 {
+    color: #001866;
+    font-size: x-large;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+
+body h3 {
+    color: #A60071;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-size: x-large;
+}
+body h4 {
+    color: #0E8C00;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-size: x-large;
+}
+body h5 {
+    color: #FF8E00;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-size: x-large;
+}
+#Ima {
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 10px;
+    float: left;
+}
+#Futbol {
+    margin-right: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-top: 10px;
+    float: right;
+}
+#Voley {
+    margin-right: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-top: 10px;
+    float: left;
+
+}
+#Basket {
+    margin-right: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    float: right;
+}
+#Tenis {
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
+
+#Menú {
+    color: #AC0303;
+    text-align: center;
+    font-size: x-large;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+#Principal {
+    background-color: #C4E8FF;
+    width: 70%;
+    margin-left: 15%;
+    padding-left: 10px;
+}
+#Principal {
+    background-color: #D2EAFF;
+    width: 70%;
+    margin-left: 15%;
+}
